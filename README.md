@@ -11,4 +11,5 @@ Learn to GitHub!
 1. Prepare your workspace.
 2. Download files.
 3. Extract the files.
+4. Run executable.
 
