@@ -9,4 +9,5 @@ Learn to GitHub!
 # Instructions Start
 
 1. Prepare your workspace.
+2. Download files and extract.
 
